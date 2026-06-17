@@ -2,7 +2,7 @@
 
 A real-time physics-based rope simulation built with **C++ and SFML 3.0**, using Verlet integration and constraint solving.
 
-![Rope Simulation](screenshot.png)
+Get-Content "C:\Users\SNEHAL\Desktop\Rope Simulation\README.md" -Raw) -replace 'screenshot.png', 'Screenshot 2026-06-17 160334.png' | Set-Content "C:\Users\SNEHAL\Desktop\Rope Simulation\README.md" -Encoding UTF8
 
 ## ✨ Features
 
